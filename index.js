@@ -4,7 +4,7 @@ import { Header } from './src/componets/common';
 import AlbumList from './src/componets/album/AlbumList';
 import App from './src/App';
 
-{ /*
+/*
 const AppAlbum = () => (
 
   <View style={{ flex: 1 }}>
@@ -13,6 +13,6 @@ const AppAlbum = () => (
   </View>
   
 );
-*/ }
+*/
 
 AppRegistry.registerComponent('albums', () => App);
